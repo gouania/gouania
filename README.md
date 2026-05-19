@@ -3,14 +3,16 @@
 I am a **PhD Botanist at the Royal Botanic Gardens, Kew**, specializing in the family **Rhamnaceae**. My work focuses on the intersection of systematic botany, herbarium curation, and AI-driven taxonomic workflows.
 
 ## 🛠 The Biologist's Toolkit
-I am developing a suite of experimental AI-powered prototypes to assist with identification and research. 
+I am developing a suite of experimental AI-powered prototypes to assist with identification and research.
 
 ### 🌟 Featured Project: [Botanical Taxonomy Workbench](https://taxonomy-workbench-293694911258.us-west1.run.app/)
-The flagship of the toolkit. A unified, interconnected workspace that integrates several of my previous prototypes into a single reasoning interface.
-- **Identify**: Search-grounded multi-access key for plant families.
-- **Profiles**: Diagnostic morphological descriptions and side-by-side comparisons.
-- **Authorities**: Biographical profiles of taxonomists with deep-linking to their taxonomic legacy.
-- **Guide**: (New) AI-powered generation of identification guides and dichotomous keys.
+The flagship of the toolkit. A unified, interconnected workspace that integrates several reasoning modules into a single interface.
+
+- **Identify**: A search-grounded multi-access key for plant families with a "Suggest Next Feature" engine.
+- **Profiles**: Diagnostic morphological descriptions and side-by-side comparisons, featuring geographical filtering for localized species counts.
+- **Localities**: (New) Explore the ecological, biological, and geographical context of specific regions, biomes, or coordinates.
+- **Authorities**: Biographical profiles of taxonomists with deep-linking to their taxonomic legacy and described taxa.
+- **Guide**: AI-powered generation of custom identification guides and dichotomous keys from raw text or synthesis.
 
 [📂 Explore the Workbench Code](https://github.com/gouania/botanical-taxonomy-workbench) | [🚀 Launch the Workbench](https://taxonomy-workbench-293694911258.us-west1.run.app/)
 
@@ -25,7 +27,7 @@ The flagship of the toolkit. A unified, interconnected workspace that integrates
 - **Seed banking**: Identifying and curating Millennium Seed Bank Partnership herbarium collections.
 - **Systematics of Rhamnaceae**: (*Gouania*, *Smythea*, *Ventilago*, *Ziziphus*).
 - **Flora of Europe**: Field identification and regional floristics.
-- **AI Reasoning**: Exploring LLMs as grounded interfaces for systematic botany.
+- **AI Reasoning**: Exploring LLMs as grounded, search-verified interfaces for systematic botany.
 
 ## 📫 Connect with me
 - [iNaturalist Profile](https://www.inaturalist.org/people/danielcahen)
