@@ -9,17 +9,18 @@ I am developing a suite of experimental AI-powered prototypes to assist with ide
 The flagship of the toolkit. A unified, interconnected workspace that integrates several reasoning modules into a single interface.
 
 - **Identify**: A search-grounded multi-access key for plant families with a "Suggest Next Feature" engine.
-- **Profiles**: Diagnostic morphological descriptions and side-by-side comparisons, featuring geographical filtering for localized species counts.
-- **Localities**: (New) Explore the ecological, biological, and geographical context of specific regions, biomes, or coordinates.
-- **Authorities**: Biographical profiles of taxonomists with deep-linking to their taxonomic legacy and described taxa.
-- **Guide**: AI-powered generation of custom identification guides and dichotomous keys from raw text or synthesis.
+- **Profiles**: Diagnostic morphological descriptions and side-by-side comparisons with geographical filtering.
+- **Localities**: Explore the ecological, biological, and geographical context of specific regions or coordinates.
+- **Authorities**: Biographical profiles of taxonomists with deep-linking to their taxonomic legacy.
+- **Guide**: AI-powered generation of custom identification guides and dichotomous keys.
 
 [📂 Explore the Workbench Code](https://github.com/gouania/botanical-taxonomy-workbench) | [🚀 Launch the Workbench](https://taxonomy-workbench-293694911258.us-west1.run.app/)
 
 ---
 
 ### 📦 Standalone Utilities & Pilots
-- 📋 **[BioKey AI](https://github.com/gouania/biokey-ai)**: Generating structured identification keys from raw text descriptions. [🚀 Live App](https://biokey-ai-327899095874.us-west1.run.app/)
+- 🧬 **[Taxon Profiles](https://github.com/gouania/taxon-profiles)**: My most utilized tool. Generates detailed diagnostic descriptions and side-by-side comparisons of lookalikes with localized species context. [🚀 Live App](https://taxon-profiles-937134952254.us-west1.run.app)
+- 📋 **[BioKey AI](https://github.com/gouania/biokey-ai)**: Generating structured identification keys and dichotomous keys from raw text descriptions. [🚀 Live App](https://biokey-ai-327899095874.us-west1.run.app/)
 - 📑 **[Scientific Name Extractor](https://github.com/gouania/scientific-name-extractor)**: High-speed taxonomic name extraction and data cleaning utility. [🚀 Live App](https://scientific-name-extractor-978100405288.us-west1.run.app/)
 - 🌲 **[Cedrus-BioKey Pilot](https://github.com/gouania/cedrus-biokey-pilot)**: "Strict Mode" identification using a fixed, verified dataset of *Cedrus* morphology. [🚀 Live App](https://cedrus-biokey-data-1089409921036.us-west1.run.app/)
 
