@@ -5,7 +5,7 @@ I am a **PhD Botanist at the Royal Botanic Gardens, Kew**, specializing in the f
 ## 🛠 The Biologist's Toolkit
 I am developing a suite of experimental AI-powered prototypes to assist with identification and research.
 
-### 🌟 Featured Project: [Botanical Taxonomy Workbench](https://taxonomy-workbench-293694911258.us-west1.run.app/)
+### 🌟 Featured Project: [Taxonomy Workbench](https://taxonomy-workbench-293694911258.us-west1.run.app/)
 The flagship of the toolkit. A unified, interconnected workspace that integrates several reasoning modules into a single interface.
 
 - **Identify**: A search-grounded multi-access key for plant families with a "Suggest Next Feature" engine.
